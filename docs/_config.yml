@@ -20,7 +20,7 @@
 
 title: Gitlet
 description: The spec for the final CS 61B Spring 2022 project, Gitlet.
-url: "https://shreyaskompalli.github.io/gitlet-spec.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shreyaskompalli.github.io/gitlet-spec/" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
 
 # Build settings
